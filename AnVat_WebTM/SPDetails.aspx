@@ -21,7 +21,7 @@
          <span><b>Giá Tiền:</b>&nbsp;<%#: String.Format("{0:c}",Item.UnitGiaTien)
         %></span>
          <br />
-         <span><b>Mã sản phẩm:</b>&nbsp;<%#:Item.BookID %></span>
+         <span><b>Mã sản phẩm:</b>&nbsp;<%#:Item.MaSP %></span>
          <br />
          </td>
          </tr>
